@@ -1,14 +1,15 @@
 # SA-Portfolio
 Этот репозиторий содержит проекты по System Analyst, в которых представлены весь доступный мне инструментарий
 
+## User Story
+- исходный файл
+
 ## Моделирование данных
 
 - [Интернет-магазин:Use Case + ERD](docs/models/data-modeling.xml)
 
-
-
-## User Story
-- исходный файл
+## Моделирование процессов
+- [Клиника:BPMN AS-IS]docs/models/BPMN AS-IS.drawio
 
 
  ## Прототипы
