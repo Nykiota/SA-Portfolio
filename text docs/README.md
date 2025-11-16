@@ -1,3 +1,3 @@
-- docs/diagrams/data modeling.drawio
+- text docs/diagrams/data modeling.drawio
 
-- docs/diagrams/data modeling.png
+- text docs/diagrams/data modeling.png
