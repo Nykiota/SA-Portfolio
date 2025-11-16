@@ -5,3 +5,15 @@
 
 - [Интернет-магазин](https://github.com/Nykiota/SA-Portfolio/blob/main/text%20docs/data%20modeling.xml) - исходный файл
 - ![Просмотр](text docs/models/Data_Modeling Use_case.png) - для быстрого просмотра
+
+
+## User Story MVP
+- исходный файл
+ - для быстрого просмотра
+
+
+ ## Прототипы
+
+
+
+ ## ТЗ на разработку
