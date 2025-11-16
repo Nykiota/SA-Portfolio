@@ -3,5 +3,5 @@
 
 ## Моделирование данных
 
-- [Интернет-магазин](docs/diagrams/data modeling.drawio) - исходный файл
-- ![Просмотр](docs/diagrams/system-flow.png) - для быстрого просмотра
+- [Интернет-магазин](text docs/data modeling.xml) - исходный файл
+- ![Просмотр](text docs/diagrams/system-flow.png) - для быстрого просмотра
