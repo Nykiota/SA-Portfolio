@@ -3,8 +3,8 @@
 
 ## Моделирование данных
 
-- [Интернет-магазин](docs/models/data-modeling.xml) - исходный файл
-
+- [Интернет-магазин](docs/models/data-modeling.xml)
+- [ERD]docs/models/ERD.drawio
 
 
 ## User Story
