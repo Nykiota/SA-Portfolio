@@ -12,7 +12,9 @@
 - [Клиника:BPMN AS-IS](docs/models/BPMN-AS-IS.drawio)
 - [Клиника:UML SMD](docs/models/UML-SMD)
 - [Клиника:BPMN TO-BE](docs/models/BPMN-TO-BE.drawio)
+- [Агрегатор авиабилетов:Sequence Diagram](docs/models/Sequence-Diagram.drawio)
 
+  
  ## Прототипы
 - исходный файл
 
