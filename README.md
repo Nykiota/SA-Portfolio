@@ -9,7 +9,7 @@
 - [Интернет-магазин:Use Case + ERD](docs/models/data-modeling.xml)
 
 ## Моделирование процессов
-- [Клиника:BPMN AS-IS](docs/models/BPMN_AS-IS.drawio)
+- [Клиника:BPMN AS-IS](docs/models/BPMN-AS-IS.drawio)
 
 
  ## Прототипы
