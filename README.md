@@ -4,4 +4,4 @@
 ## Моделирование данных
 
 - [Интернет-магазин](text docs/data modeling.xml) - исходный файл
-- ![Просмотр](text docs/diagrams/system-flow.png) - для быстрого просмотра
+- ![Просмотр](docs/diagrams/system-flow.png) - для быстрого просмотра
