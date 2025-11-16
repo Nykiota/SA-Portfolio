@@ -1,27 +1,7 @@
 # SA-Portfolio
 Этот репозиторий содержит проекты по System Analyst, в которых представлены весь доступный мне инструментарий
 
-## User Story
-- исходный файл
-
-## Моделирование данных
-
-- [Интернет-магазин:Use Case + ERD](docs/models/data-modeling.xml)
-
-## Моделирование процессов
-- [Клиника:BPMN AS-IS](docs/models/BPMN-AS-IS.drawio)
-- [Клиника:UML SMD](docs/models/UML-SMD)
-- [Клиника:BPMN TO-BE](docs/models/BPMN-TO-BE.drawio)
-- [Агрегатор авиабилетов:Sequence Diagram](docs/models/Sequence-Diagram.drawio)
-- [Умный Дом:DFD context](docs/models/DFD-context.drawio)
-- [Умный Дом:DFD logic](docs/models/DFD-logic.drawio)
-
-  
- ## Прототипы
-- исходный файл
-
-
-
- ## Интеграции
-- исходный файл
+звание проекта	Описание	Используемые библиотеки
+1. Исследование надёжности заёмщиков	Проект исследует, как семейное положение и количество детей влияют на своевременное погашение кредита, с целью улучшения модели кредитного скоринга.	pandas, seaborn, matplotlib
+2. Исследование объявлений о продаже квартир	Проект анализирует данные о продаже квартир в Санкт-Петербурге для определения рыночной стоимости объектов и выявления факторов, влияющих на цену.	pandas, seaborn, matplotlib, numpy, datetime
 
