@@ -4,7 +4,7 @@
 ## Моделирование данных
 
 - [Интернет-магазин](docs/models/data-modeling.xml)
-- [ERD]docs/models/ERD.drawio
+- [ERD](docs/models/ERD.drawio)
 
 
 ## User Story
