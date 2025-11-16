@@ -14,6 +14,7 @@
 - [Клиника:BPMN TO-BE](docs/models/BPMN-TO-BE.drawio)
 - [Агрегатор авиабилетов:Sequence Diagram](docs/models/Sequence-Diagram.drawio)
 - [Умный Дом:DFD context](docs/models/DFD-context.drawio)
+- [Умный Дом:DFD logic](docs/models/DFD-logic.drawio)
 
   
  ## Прототипы
