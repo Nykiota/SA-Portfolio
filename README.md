@@ -10,7 +10,7 @@
 
 ## Моделирование процессов
 - [Клиника:BPMN AS-IS](docs/models/BPMN-AS-IS.drawio)
-[Клиника:UML SMD](docs/models/UML-SMD)
+- [Клиника:UML SMD](docs/models/UML-SMD)
 
  ## Прототипы
 - исходный файл
