@@ -4,7 +4,7 @@
 ## Моделирование данных
 
 - [Интернет-магазин](https://github.com/Nykiota/SA-Portfolio/blob/main/text%20docs/data%20modeling.xml) - исходный файл
-- ![Просмотр](text_docs/models/Data_Modeling_Use_case.svg)- для быстрого просмотра
+- ![Просмотр](text docs/Data_Modeling_Use_case.svg)- для быстрого просмотра
 
 
 ## User Story MVP
