@@ -21,7 +21,7 @@
  
 
 #### Доп. задача
-Реализована функция [«Чекап»](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_1.pdf) (от англ. check-up — программа комплексной проверки здоровья). Также были созданы [прототипы интерфейсов](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_2.pdf)
+Реализована функция [«Чекап»](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/User-Story_MVP.pdf)) (от англ. check-up — программа комплексной проверки здоровья). Также были созданы [прототипы интерфейсов](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_2.pdf)
 В мобильном приложении пациенты могут просмотреть список всех доступных врачей, записаться к заинтересовавшему их специалисту и проверить свои запланированные визиты.
 Эта функция будет подбирать пользователям план чекапа, включающий консультации у врачей и анализы, которые нужно проходить регулярно. Подбор будет выполняться по возрасту, полу и имеющимся заболеваниям.
 
