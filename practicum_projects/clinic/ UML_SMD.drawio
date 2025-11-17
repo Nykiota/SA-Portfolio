@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+  <diagram id="anxewemBDnC__M29I5zN" name="UML State Machine Diagram">
+    <mxGraphModel dx="2193" dy="2380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LDoLhlRoVNjboXE4tW1Y-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LDoLhlRoVNjboXE4tW1Y-2" target="LDoLhlRoVNjboXE4tW1Y-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDoLhlRoVNjboXE4tW1Y-2" value="" style="ellipse;html=1;fillColor=light-dark(#FFFFFF,#4D4D4D);strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="250" y="-1100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LDoLhlRoVNjboXE4tW1Y-5" target="VtW7vjOn9ozpNl4Srnhj-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="-1020" />
+              <mxPoint x="380" y="-1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PAI2IFH3JjO-r589ap0I-1" value="Пациент записался на приём" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VtW7vjOn9ozpNl4Srnhj-2" connectable="0" vertex="1">
+          <mxGeometry x="-0.17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDoLhlRoVNjboXE4tW1Y-5" value="&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(9, 9, 9));&quot;&gt;Создан&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F9F9F9,#FFFFFF);strokeColor=light-dark(#EDEDED,#6F6F6F);rounded=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="315" y="-1115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-1" target="VtW7vjOn9ozpNl4Srnhj-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAI2IFH3JjO-r589ap0I-2" value="Пациент подтвердил запись" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VtW7vjOn9ozpNl4Srnhj-4" connectable="0" vertex="1">
+          <mxGeometry x="0.313" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-1" target="VtW7vjOn9ozpNl4Srnhj-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PAI2IFH3JjO-r589ap0I-3" value="Пациент не подтвердил" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VtW7vjOn9ozpNl4Srnhj-6" connectable="0" vertex="1">
+          <mxGeometry x="0.1527" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 18px; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font face=&quot;YS Text, sans-serif&quot; style=&quot;color: light-dark(rgb(9, 9, 9), rgb(10, 10, 10));&quot;&gt;Ожидает подтверждения&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#B1DDF0,#FFFFFF);rounded=1;arcSize=18;align=center;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="285" y="-982.5" width="180" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="PAI2IFH3JjO-r589ap0I-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-3" target="VtW7vjOn9ozpNl4Srnhj-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_AydPOLoKeik48Is-QO-6" value="Врач начал приём" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="PAI2IFH3JjO-r589ap0I-7" connectable="0" vertex="1">
+          <mxGeometry x="-0.2289" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-3" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre-line; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important; color: rgb(53, 53, 53);&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(53, 53, 53), rgb(0, 0, 0));&quot;&gt;Подтверждён&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F5F5F5,#FFFFFF);strokeColor=light-dark(#EDEDED,#6F6F6F);rounded=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PAI2IFH3JjO-r589ap0I-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-5" target="VtW7vjOn9ozpNl4Srnhj-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524.9999999999998" y="-620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-5" value="&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(53, 53, 53), rgb(0, 0, 0));&quot;&gt;Отменён&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F7F7F7,#EFEFEF);strokeColor=light-dark(#EDEDED,#FFFFFF);rounded=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="465" y="-790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-7" target="VtW7vjOn9ozpNl4Srnhj-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J_AydPOLoKeik48Is-QO-7" value="Врач назначил лечение" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VtW7vjOn9ozpNl4Srnhj-10" connectable="0" vertex="1">
+          <mxGeometry x="-0.2298" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-7" value="&lt;font style=&quot;font-size: 18px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;В работе&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F3F3F3,#FFFFFF);strokeColor=light-dark(#EDEDED,#6F6F6F);rounded=1;arcSize=18;align=center;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="175" y="-660" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J_AydPOLoKeik48Is-QO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="VtW7vjOn9ozpNl4Srnhj-9" target="VtW7vjOn9ozpNl4Srnhj-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="-330.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-9" value="&lt;span style=&quot;font-family: &amp;quot;YS Text&amp;quot;, sans-serif; font-size: 18px; text-align: left; white-space-collapse: preserve-breaks;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(53, 53, 53), rgb(0, 0, 0));&quot;&gt;Завершён&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=light-dark(#F1F1F1,#FFFFFF);strokeColor=light-dark(#EDEDED,#6F6F6F);rounded=1;arcSize=18;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-11" value="" style="ellipse;html=1;shape=endState;fillColor=light-dark(#FFFFFF,#505050);" parent="1" vertex="1">
+          <mxGeometry x="235" y="-330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtW7vjOn9ozpNl4Srnhj-12" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;html=1;backgroundOutline=1;fillColor=light-dark(#FFFFFF,#000000);fillStyle=solid;" parent="1" vertex="1">
+          <mxGeometry x="510" y="-619" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
