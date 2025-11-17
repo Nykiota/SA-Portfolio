@@ -34,6 +34,6 @@
 
 ### Выполненные задачи
 
-1) Создана диаграмма последовательности согласно изначального ТЗ
+1) Создана [диаграмма последовательности](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/flight_ticket_aggregator/Sequence-Diagram.drawio) согласно изначального ТЗ
 
 
