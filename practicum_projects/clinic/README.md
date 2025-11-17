@@ -8,20 +8,20 @@
 
 1) Интервью с заинтересованными лицами
 Погрузился в контекст задачи и понял требования к приложению. 
-2) Описал [модель AS-IS-процесса](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/BPMN-AS-IS.drawio) «Приём у врача в медицинской клинике» в BPMN и [UML State Machine Diagram](practicum_projects/clinic/UML-SMD), определил действия, которые можно автоматизировать, и описал [TO-BE-модель](practicum_projects/clinic/BPMN-TO-BE.drawio) в BPMN
-3) [Карта пользовательских историй и MVP](practicum_projects/clinic/User Story MVP.png)
+2) Описал [модель AS-IS-процесса](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/BPMN-AS-IS.drawio) «Приём у врача в медицинской клинике» в BPMN и [UML State Machine Diagram](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/%20UML_SMD.drawio), определил действия, которые можно автоматизировать, и описал [TO-BE-модель](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/BPMN-TO-BE.drawio) в BPMN
+3) [Карта пользовательских историй и MVP](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/User%20Story%20MVP.png)
 Выявлены функциональные требования.
 Состалены описание персон.
 Обсуждены наиболее важные комментарии разработчика и дизайнера.
 Выдвинуты гипотезы, которые нужно проверить.
 4) Диаграммы потоков данных (DFD)
-Составлены [контекстная](practicum_projects/clinic/DFD-context.drawio) и [логическая](practicum_projects/clinic/DFD-logic.drawio) диаграммы потоков данных на основании имеющихся историй
-5) [Прототипы](practicum_projects/clinic/Prototypes_1.pdf)
+Составлены [контекстная](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/DFD-context.drawio) и [логическая](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/DFD-logic.drawio) диаграммы потоков данных на основании имеющихся историй
+5) [Прототипы](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_1.pdf)
 Была создана раскадровка (Storyboard) — последовательность эскизов интерфейса мобильного приложения для сети медицинских клиник. 
  
 
 #### Доп. задача
-Реализована функция [«Чекап»](practicum_projects/clinic/User-Story_MVP.pdf) (от англ. check-up — программа комплексной проверки здоровья). Также были созданы [прототипы интерфейсов](practicum_projects/clinic/Prototypes_2.pdf)
+Реализована функция [«Чекап»](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_1.pdf) (от англ. check-up — программа комплексной проверки здоровья). Также были созданы [прототипы интерфейсов](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/Prototypes_2.pdf)
 В мобильном приложении пациенты могут просмотреть список всех доступных врачей, записаться к заинтересовавшему их специалисту и проверить свои запланированные визиты.
 Эта функция будет подбирать пользователям план чекапа, включающий консультации у врачей и анализы, которые нужно проходить регулярно. Подбор будет выполняться по возрасту, полу и имеющимся заболеваниям.
 
