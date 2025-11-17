@@ -5,13 +5,14 @@
 
 ### Выполненные задачи
 1) Созданы функции карточек слов, выявлены и задокументированы варианты использования через
-- диаграмму в нотации UML Use Case https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use_Case.jpg.
-- табличную форму Use Case с описанием всех полей по Алистеру Коберну.
+- [диаграмму в нотации UML Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use_Case.jpg.)
+- [табличную форму Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UML-Use-Case.pdf) с описанием всех полей по Алистеру Коберну.
 2) Задокументированы требования к просмотру видео в карточке слова:
-- графический вариант Use Case с вариантами использования
-- табличный вариант использования для функции просмотра видео
-- функциональные требования к видео
-- описаны атрибуты качества, бизнес-правила, глоссарий для ф-ции просмотра видео
+- [графический вариант Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use-Case-diag.pdf) 
+- [табличный вариант использования](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UC-vide%D0%BE.pdf) для функции просмотра видео 
+- [функциональные требования к видео](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/FR-video.pdf)
+- [словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Data-dictionary.pdf)
+- описаны (атрибуты качества)[https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/qual-attr.pdf), [бизнес-правила](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf), [глоссарий](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf) для ф-ции просмотра видео
 
 ### Ограничени и допущения
 - Использование видеофайлов в интернете регулируется авторским правом, которое закреплено в части четвёртой Гражданского кодекса Российской Федерации
