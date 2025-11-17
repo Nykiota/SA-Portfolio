@@ -9,6 +9,6 @@
 
 ### Выполненные задачи
 
-1) Тест-кейсы
-2) ПМИ сервиса.
-3) Руководство пользователя сервиса.
+1) [Тест-кейсы](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_hotel/test-plan.pdf)
+2) [ПМИ сервиса](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_hotel/program-and-test-methodology.pdf)
+3) [Руководство пользователя сервиса](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_hotel/user-manual.pdf)
