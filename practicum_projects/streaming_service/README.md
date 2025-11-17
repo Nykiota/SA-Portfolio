@@ -9,8 +9,8 @@
 - Поставить задачу на разработку новой операции API.
 
 ### Выполненные задачи
-1) DFD
-2) Проверка XML-схемы
-3) Тикет на разработку
+1) [DFD](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/Seq-Diag.drawio)
+2) [Проверка XML-схемы](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/XML-check.pdf)
+3) [Тикет на разработку](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/Ticket-for-Devs.pdf)
 
 
