@@ -6,8 +6,8 @@
 
 ### Выполненные задачи
 
-1) Создана [логическая ER-диаграмма](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Chen-Notation.drawio в нотации Чена) 
-2) Составлена [логическая](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Crow's-foot-Notation.drawio) ER-диаграмма в нотации Crow’s Foot 
+1) Создана [логическая ER-диаграмма](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Chen-Notation.drawio) в нотации Чена 
+2) Составлена [логическая ER-диаграмма](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Crow's-foot-Notation.drawio) в нотации Crow’s Foot 
 3) Валидирована получившаяся ER-диаграмма в нотации Crow’s Foot
 4) [Логическую ER-модель](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/ER-normalization.drawio) приведена к третьей нормальной форме
 5) [Создан словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/On-line_store-SRS.pdf)
