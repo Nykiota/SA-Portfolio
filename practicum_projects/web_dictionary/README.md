@@ -12,7 +12,7 @@
 - [табличный вариант использования](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UC-vide%D0%BE.pdf) для функции просмотра видео 
 - [функциональные требования к видео](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/FR-video.pdf)
 - [словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Data-dictionary.pdf)
-- описаны (атрибуты качества)[https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/qual-attr.pdf), [бизнес-правила](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf), [глоссарий](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf) для ф-ции просмотра видео
+- описаны [атрибуты качества]([https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/qual-attr.pdf), [бизнес-правила](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf), [глоссарий](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf) для ф-ции просмотра видео
 
 ### Ограничени и допущения
 - Использование видеофайлов в интернете регулируется авторским правом, которое закреплено в части четвёртой Гражданского кодекса Российской Федерации
