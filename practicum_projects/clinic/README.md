@@ -8,7 +8,7 @@
 
 1) Интервью с заинтересованными лицами
 Погрузился в контекст задачи и понял требования к приложению. 
-2) Описал [модель AS-IS-процесса](practicum_projects/clinic/BPMN-AS-IS.drawio) «Приём у врача в медицинской клинике» в BPMN и [UML State Machine Diagram](practicum_projects/clinic/UML-SMD), определил действия, которые можно автоматизировать, и описал [TO-BE-модель](practicum_projects/clinic/BPMN-TO-BE.drawio) в BPMN
+2) Описал [модель AS-IS-процесса](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/clinic/BPMN-AS-IS.drawio) «Приём у врача в медицинской клинике» в BPMN и [UML State Machine Diagram](practicum_projects/clinic/UML-SMD), определил действия, которые можно автоматизировать, и описал [TO-BE-модель](practicum_projects/clinic/BPMN-TO-BE.drawio) в BPMN
 3) [Карта пользовательских историй и MVP](practicum_projects/clinic/User Story MVP.png)
 Выявлены функциональные требования.
 Состалены описание персон.
