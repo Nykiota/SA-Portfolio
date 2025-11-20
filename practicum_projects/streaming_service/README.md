@@ -10,7 +10,7 @@
 - *Проектирование и анализ системы*:
 
 * Создал [Диаграмму потоков данных (DFD)](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/Seq-Diag.drawio) для визуализации обновленной архитектуры и взаимодействий компонентов.
-* Разработал Диаграмму последовательности для детализации сценариев работы новой функции, обеспечив однозначное понимание логики разработчиками.
+* Разработал [Диаграмму последовательности](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/Seq-Diag.drawio) для детализации сценариев работы новой функции, обеспечив однозначное понимание логики разработчиками.
 * Выполнил [анализ и проверку XML-схемы](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/streaming_service/XML-check.pdf) на соответствие новым требованиям.
 
 - *Тестирование и формализация задач*:
