@@ -1,18 +1,41 @@
 ## Он-лайн словарь
 
-### Контекст
-В процессе разработки спецификации требований для второй версии веб-приложения, требования к словарю готовы, а для карточек осталось написать функциональные требования. Изначально Заказчик требовал только описание функции карточек для запоминания новых слов во второй версии приложения. Но в процессе работы CEO компании предложила добавить в словарь видео. Всем членам команды понравилась её идея: очень удобно и полезно, если можешь не только прослушать озвучку нового слова, но и посмотреть видео из популярного сериала или шоу, где носители языка используют это слово в речи.
 
-### Выполненные задачи
-1) Созданы функции карточек слов, выявлены и задокументированы варианты использования через
-- [диаграмму в нотации UML Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use_Case.jpg.)
-- [табличную форму Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UML-Use-Case.pdf) с описанием всех полей по Алистеру Коберну.
-2) Задокументированы требования к просмотру видео в карточке слова:
-- [графический вариант Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use-Case-diag.pdf) 
-- [табличный вариант использования](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UC-vide%D0%BE.pdf) для функции просмотра видео 
-- [функциональные требования к видео](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/FR-video.pdf)
-- [словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Data-dictionary.pdf)
-- описаны [атрибуты качества]([https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/qual-attr.pdf), [бизнес-правила](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf), [глоссарий](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf) для ф-ции просмотра видео
 
-### Ограничени и допущения
-- Использование видеофайлов в интернете регулируется авторским правом, которое закреплено в части четвёртой Гражданского кодекса Российской Федерации
+### Задача:
+
+Первоначальная задача заключалась в разработке функциональных требований для системы карточек запоминания слов в рамках второй версии веб-приложения. Однако в процессе работы произошло значительное расширение scope: по инициативе CEO мы получили стратегическую задачу интегрировать в словарь функцию просмотра видео-примеров из сериалов для повышения эффективности обучения.
+
+### Шаги для решения задачи:
+
+Чтобы справиться с расширением scope и обеспечить качество финального продукта, я систематизировал работу по двум направлениям:
+
+#### По первоначальной задаче (Карточки):
+
+Провел детальный анализ и описал функциональность карточек, используя стандартные техники: [диаграмму вариантов использования UML Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use_Case.jpg.) и детализированное [текстовое описание в табличной форме](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UML-Use-Case.pdf) по методологии Алистера Коберна.
+
+#### По новой задаче (Интеграция видео):
+
+Выполнил полный цикл работ по формализации требований к новой функции:
+
+- *Моделирование*: Создали [графическую](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Use-Case-diag.pdf)  и [табличную модели](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/UC-vide%D0%BE.pdf)  Use Case для функции просмотра видео.
+
+- *Спецификация*: Задокументировали [функциональные требования](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/FR-video.pdf) к видео-контенту и его атрибутам.
+
+- *Данные и логика*: Разработали [словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/Data-dictionary.pdf) и описали [бизнес-правила](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf), регулирующие работу с видео.
+
+- *Качество и терминология*: Определили [атрибуты качества](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/qual-attr.pdf) (нефункциональные требования) и составили [глоссарий](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/web_dictionary/BR%26glossary.pdf) для обеспечения единого понимания в команде.
+
+- *Управление рисками*: Важным шагом было выявление ключевого ограничения — правового регулирования использования видеофайлов. Мы явно задокументировали этот риск для дальнейшей проработки с юристами.
+
+### Результат:
+
+В результате наша команда получила не просто доработанный backlog, а комплексный пакет документации, который включал:
+- Полностью готовые и согласованные требования к системе карточек слов.
+- Детализированное техническое задание на новую feature — интеграцию видео в словарь, содержащее все необходимые артефакты (модели, требования, глоссарий, правила) для бесшовной передачи в разработку.
+- Четкое понимание правового ограничения, что позволило Product Owner-у и руководству заблаговременно начать работу по его снятию.
+  
+Таким образом, мы не только выполнили первоначальный план, но и обеспечили надежный фундамент для реализации новой, стратегически важной функции, минимизировав риски недопонимания и технического долга на поздних этапах.
+
+
+
