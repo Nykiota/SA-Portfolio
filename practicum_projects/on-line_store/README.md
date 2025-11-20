@@ -1,17 +1,24 @@
 ## Он-лайн магазин спец. одежды 
 
-### Контекст 
 
+### Задача:
 Наша команда разработки занималась подготовкой спецификации требований для интернет-магазина. Она уже составила диаграмму Use Case и сценарии использования будущего продукта. Пока готовятся остальные требования, мне было необходимо заняться подготовкой модели данных. Она позволит убедиться, что Заказчик и наша команда правильно поняли друг друга и учли важные особенности работы интернет-магазина. Когда ER-модель будет готова, архитекторы баз данных и разработчики смогут проработать структуру баз данных интернет-магазина.
 
-### Выполненные задачи
+### Шаги для решения задачи:
 
-1) [Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Use-%20Case.drawio) для сценариев использования
-2) Создана [логическая ER-диаграмма](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Chen-Notation.drawio) в нотации Чена 
-3) Составлена [логическая ER-диаграмма](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Crow's-foot-Notation.drawio) в нотации Crow’s Foot 
-4) Валидирована получившаяся ER-диаграмма в нотации Crow’s Foot
-5) [Логическую ER-модель](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/ER-normalization.drawio) приведена к третьей нормальной форме
-6) [Создан словарь данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/On-line_store-SRS.pdf)
+Для решения задачи был применен системный подход к проектированию.
+
+- *Базовое моделирование*: На основе готовых [Use Case](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Use-%20Case.drawio) создана [первичная ER-диаграмма в нотации Чена](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Chen-Notation.drawio) для концептуального представления сущностей и их связей.
+- *Детализация и верификация*: Модель была преобразована в более распространенную и технически детализированную [нотацию Crow's Foot](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/Crow's-foot-Notation.drawio) для однозначной трактовки Cardinality и Optionality связей, после чего прошла валидацию.
+- *Нормализация и формализация*: [Логическая модель](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/ER-normalization.drawio) приведена к 3-й нормальной форме (3NF) для исключения избыточности и аномалий данных. Все сущности и атрибуты были формализованы в [словаре данных](https://github.com/Nykiota/SA-Portfolio/blob/main/practicum_projects/on-line_store/On-line_store-SRS.pdf).
+- *Учет бизнес-контекста*: Критически важные бизнес-ограничения (монобрендовость, отсутствие хранения платежных данных, специфика проведения акций) были явно вынесены и зафиксированы как часть модели.
+
+### Результат:
+Команда получила валидированную логическую ER-модель в 3NF, сопровождаемую словарем данных и списком ключевых ограничений. Это артефакт:
+
+*Для бизнеса*: Явно подтвердил, что команда корректно поняла и формализовала требования.
+*Для разработки* (архитекторов БД и бэкендеров): Предоставил готовую и оптимизированную основу для создания физической схемы базы данных, что значительно ускорило старт разработки и снизило риски дорогостоящих переделок.
+
 
 ### Ограничени и допущения
 - В интернет-магазине продаётся одежда только одного бренда
